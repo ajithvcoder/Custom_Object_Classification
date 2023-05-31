@@ -64,6 +64,8 @@ Make sure if you have changed weights filename, train folder, input image in pre
 
 Kindly raise issues or mail me if you have any questions
 
+Medium blog - [here](https://medium.com/@ajithkumarv/8a19e5ca5e27)
+
 **Credits**
 - [Custom-CNN-based-Image-Classification-in-PyTorch](https://github.com/developer0hye/Custom-CNN-based-Image-Classification-in-PyTorch)
 - [Creating custom dataloader](https://medium.com/analytics-vidhya/creating-a-custom-dataset-and-dataloader-in-pytorch-76f210a1df5d)
